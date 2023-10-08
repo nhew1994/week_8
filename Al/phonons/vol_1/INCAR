@@ -1,0 +1,4 @@
+ENCUT = 400
+ISMEAR = 0
+SIGMA = 0.05
+EDIFF  = 1E-04 #break condition for the electronic SC-loop
